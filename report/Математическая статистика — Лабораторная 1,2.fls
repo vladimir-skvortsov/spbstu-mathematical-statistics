@@ -627,6 +627,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
 INPUT ./Математическая статистика — Лабораторная 1,2.out
 INPUT Математическая статистика — Лабораторная 1,2.out
 INPUT ./Математическая статистика — Лабораторная 1,2.out

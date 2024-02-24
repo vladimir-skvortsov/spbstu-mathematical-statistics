@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1708810897 "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report/Математическая статистика — Лабораторная 1,2.tex" "Математическая статистика — Лабораторная 1,2.pdf" "Математическая статистика — Лабораторная 1,2" 1708810899 0
+["pdflatex"] 1708811714 "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report/Математическая статистика — Лабораторная 1,2.tex" "Математическая статистика — Лабораторная 1,2.pdf" "Математическая статистика — Лабораторная 1,2" 1708811715 0
   "/Users/vladimirskvortsov/Library/texlive/2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1708460442 3308 eee81981029f67083258db36df06e523 ""
   "/Users/vladimirskvortsov/Library/texlive/2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1708460908 3304 6a543c07045572737981351171e0505e ""
   "/Users/vladimirskvortsov/Library/texlive/2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1708460439 3312 d199be9bd555944e2403193d58a0256a ""
@@ -9,7 +9,7 @@
   "/Users/vladimirskvortsov/Library/texlive/2023/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1708460433 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/Users/vladimirskvortsov/Library/texlive/2023/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1708460436 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/Users/vladimirskvortsov/Library/texlive/2023/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm" 1708460445 1272 bf3bb5cc29880b269c8bcb412a1ac6e2 ""
-  "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report/Математическая статистика — Лабораторная 1,2.tex" 1708810896 18634 2ea209f8cad953006e2f8f9b62364fa9 ""
+  "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report/Математическая статистика — Лабораторная 1,2.tex" 1708811713 18650 b91f7449ad3ef04c23def799998ac4ab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1136849721 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -127,10 +127,10 @@
   "graphics/poisson.png" 1708809612 83895 daaa16c4ba0a35c4935bfe8b18db9c16 ""
   "graphics/student.png" 1708809612 76887 ae4f0acdcffbeacebc64de12accd3957 ""
   "graphics/uniform.png" 1708809612 68949 643357be0b6c894da0c371fcfd5220fe ""
-  "Математическая статистика — Лабораторная 1,2.aux" 1708810898 5843 f9ee24a1cc8350e6e86613fcf0b0be81 "pdflatex"
-  "Математическая статистика — Лабораторная 1,2.out" 1708810898 2871 8800205b4e5953ecc73c3d5dde373836 "pdflatex"
-  "Математическая статистика — Лабораторная 1,2.tex" 1708810896 18634 2ea209f8cad953006e2f8f9b62364fa9 ""
-  "Математическая статистика — Лабораторная 1,2.toc" 1708810898 1264 ef0e1f65236ecacfcab3268d2a9ddf9f "pdflatex"
+  "Математическая статистика — Лабораторная 1,2.aux" 1708811715 5843 753539e14002f5bfe81020c8b3d5b1ff "pdflatex"
+  "Математическая статистика — Лабораторная 1,2.out" 1708811715 2871 8800205b4e5953ecc73c3d5dde373836 "pdflatex"
+  "Математическая статистика — Лабораторная 1,2.tex" 1708811713 18650 b91f7449ad3ef04c23def799998ac4ab ""
+  "Математическая статистика — Лабораторная 1,2.toc" 1708811715 1264 f29100f758983e22c6a60e61de63885b "pdflatex"
   (generated)
   "Математическая статистика — Лабораторная 1,2.aux"
   "Математическая статистика — Лабораторная 1,2.log"

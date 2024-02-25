@@ -1,0 +1,10 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Описательная статистика}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Теоретическое обоснование}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Функции распределения}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Бокс-плот Тьюки}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Описание работы}{3}{section.3}%
+\contentsline {section}{\numberline {4}Результаты}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Гистограммы и графики плотности распределения}{4}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Выводы}{6}{section.5}%

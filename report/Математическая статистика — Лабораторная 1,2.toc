@@ -1,0 +1,24 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Описательная статистика}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Точечное оценивание характеристик положения и рассеяния}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Теоретическое обоснование}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Функции распределения}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Характеристики положения и рассеяния}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Описание работы}{3}{section.3}%
+\contentsline {section}{\numberline {4}Результаты}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Гистограммы и графики плотности распределения}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Характеристики положения и рассеяния}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Выводы}{8}{section.5}%
+\contentsline {section}{\numberline {6}Постановка задачи}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Боксплот Тьюки}{9}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Доверительные интервалы для параметров нормального распределения}{9}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Теоретическое обоснование}{9}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Функции распределения}{9}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Боксплот Тьюки}{10}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Доверительные интервалы для параметров нормального распределения}{10}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Описание работы}{10}{section.8}%
+\contentsline {section}{\numberline {9}Результаты}{11}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Гистограммы и графики плотности распределения}{11}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Доверительные интервалы для параметров распределений}{13}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Выводы}{14}{section.10}%

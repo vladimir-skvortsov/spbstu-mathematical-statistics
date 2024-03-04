@@ -10,4 +10,4 @@
 \contentsline {section}{\numberline {4}Результаты}{4}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Гистограммы и графики плотности распределения}{4}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Доверительные интервалы для параметров распределений}{6}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Выводы}{6}{section.5}%
+\contentsline {section}{\numberline {5}Выводы}{7}{section.5}%

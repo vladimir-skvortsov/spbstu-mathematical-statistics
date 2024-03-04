@@ -716,6 +716,11 @@ INPUT ./graphics/uniform.png
 INPUT graphics/uniform.png
 INPUT ./graphics/uniform.png
 INPUT ./graphics/uniform.png
+INPUT ./graphics/hists.png
+INPUT ./graphics/hists.png
+INPUT graphics/hists.png
+INPUT ./graphics/hists.png
+INPUT ./graphics/hists.png
 INPUT Математическая статистика — Лабораторная 3,4.aux
 INPUT ./Математическая статистика — Лабораторная 3,4.out
 INPUT ./Математическая статистика — Лабораторная 3,4.out

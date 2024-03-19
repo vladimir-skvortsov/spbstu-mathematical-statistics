@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.11)  19 MAR 2024 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.11)  19 MAR 2024 20:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -650,16 +650,16 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] (./Математическая статистика.toc)
-\tf@toc=\write4
-\openout4 = `"Математическая статистика.toc"'.
-
-
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] (./Математическая статистика.toc
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.66 	\tableofcontents\newpage
-                               [1] [2] [3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+l.41 ...mberline {15}Выводы}{18}{section.15}
+                                                  % [1])
+\tf@toc=\write4
+\openout4 = `"Математическая статистика.toc"'.
+
+ [2] [3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Underfull \hbox (badness 10000) in paragraph at lines 170--171
 
  []
@@ -673,7 +673,7 @@ Overfull \hbox (23.14546pt too wide) in paragraph at lines 201--204
  []
 
 [4]
-<graphics/lab1_normal.png, id=248, 1445.4pt x 722.7pt>
+<graphics/lab1_normal.png, id=258, 1445.4pt x 722.7pt>
 File: graphics/lab1_normal.png Graphic file (type png)
 <use graphics/lab1_normal.png>
 Package pdftex.def Info: graphics/lab1_normal.png  used on input line 213.
@@ -683,7 +683,7 @@ Overfull \hbox (58.04126pt too wide) in paragraph at lines 213--214
  [] 
  []
 
-<graphics/lab1_cauchy.png, id=251, 1445.4pt x 722.7pt>
+<graphics/lab1_cauchy.png, id=261, 1445.4pt x 722.7pt>
 File: graphics/lab1_cauchy.png Graphic file (type png)
 <use graphics/lab1_cauchy.png>
 Package pdftex.def Info: graphics/lab1_cauchy.png  used on input line 220.
@@ -694,7 +694,7 @@ Overfull \hbox (58.04126pt too wide) in paragraph at lines 220--221
  []
 
 [5 <./graphics/lab1_normal.png> <./graphics/lab1_cauchy.png>]
-<graphics/lab1_student.png, id=263, 1445.4pt x 722.7pt>
+<graphics/lab1_student.png, id=273, 1445.4pt x 722.7pt>
 File: graphics/lab1_student.png Graphic file (type png)
 <use graphics/lab1_student.png>
 Package pdftex.def Info: graphics/lab1_student.png  used on input line 229.
@@ -704,7 +704,7 @@ Overfull \hbox (58.04126pt too wide) in paragraph at lines 229--230
  [] 
  []
 
-<graphics/lab1_poisson.png, id=265, 1445.4pt x 722.7pt>
+<graphics/lab1_poisson.png, id=275, 1445.4pt x 722.7pt>
 File: graphics/lab1_poisson.png Graphic file (type png)
 <use graphics/lab1_poisson.png>
 Package pdftex.def Info: graphics/lab1_poisson.png  used on input line 236.
@@ -714,7 +714,7 @@ Overfull \hbox (58.04126pt too wide) in paragraph at lines 236--237
  [] 
  []
 
-<graphics/lab1_uniform.png, id=267, 1445.4pt x 722.7pt>
+<graphics/lab1_uniform.png, id=277, 1445.4pt x 722.7pt>
 File: graphics/lab1_uniform.png Graphic file (type png)
 <use graphics/lab1_uniform.png>
 Package pdftex.def Info: graphics/lab1_uniform.png  used on input line 243.
@@ -755,7 +755,7 @@ Overfull \hbox (23.14546pt too wide) in paragraph at lines 550--553
  []
 
 [11]
-<graphics/lab2_normal.png, id=742, 1445.4pt x 722.7pt>
+<graphics/lab2_normal.png, id=752, 1445.4pt x 722.7pt>
 File: graphics/lab2_normal.png Graphic file (type png)
 <use graphics/lab2_normal.png>
 Package pdftex.def Info: graphics/lab2_normal.png  used on input line 562.
@@ -765,7 +765,7 @@ Overfull \hbox (58.04126pt too wide) in paragraph at lines 562--563
  [] 
  []
 
-<graphics/lab2_cauchy.png, id=744, 1445.4pt x 722.7pt>
+<graphics/lab2_cauchy.png, id=754, 1445.4pt x 722.7pt>
 File: graphics/lab2_cauchy.png Graphic file (type png)
 <use graphics/lab2_cauchy.png>
 Package pdftex.def Info: graphics/lab2_cauchy.png  used on input line 569.
@@ -776,7 +776,7 @@ Overfull \hbox (58.04126pt too wide) in paragraph at lines 569--570
  []
 
 [12 <./graphics/lab2_normal.png> <./graphics/lab2_cauchy.png>]
-<graphics/lab2_student.png, id=755, 1445.4pt x 722.7pt>
+<graphics/lab2_student.png, id=765, 1445.4pt x 722.7pt>
 File: graphics/lab2_student.png Graphic file (type png)
 <use graphics/lab2_student.png>
 Package pdftex.def Info: graphics/lab2_student.png  used on input line 578.
@@ -786,7 +786,7 @@ Overfull \hbox (58.04126pt too wide) in paragraph at lines 578--579
  [] 
  []
 
-<graphics/lab2_poisson.png, id=757, 1445.4pt x 722.7pt>
+<graphics/lab2_poisson.png, id=767, 1445.4pt x 722.7pt>
 File: graphics/lab2_poisson.png Graphic file (type png)
 <use graphics/lab2_poisson.png>
 Package pdftex.def Info: graphics/lab2_poisson.png  used on input line 585.
@@ -796,7 +796,7 @@ Overfull \hbox (58.04126pt too wide) in paragraph at lines 585--586
  [] 
  []
 
-<graphics/lab2_uniform.png, id=759, 1445.4pt x 722.7pt>
+<graphics/lab2_uniform.png, id=769, 1445.4pt x 722.7pt>
 File: graphics/lab2_uniform.png Graphic file (type png)
 <use graphics/lab2_uniform.png>
 Package pdftex.def Info: graphics/lab2_uniform.png  used on input line 592.
@@ -807,7 +807,7 @@ Overfull \hbox (58.04126pt too wide) in paragraph at lines 592--593
  []
 
 [13 <./graphics/lab2_student.png> <./graphics/lab2_poisson.png>]
-<graphics/lab2_hists.png, id=770, 1445.4pt x 722.7pt>
+<graphics/lab2_hists.png, id=780, 1445.4pt x 722.7pt>
 File: graphics/lab2_hists.png Graphic file (type png)
 <use graphics/lab2_hists.png>
 Package pdftex.def Info: graphics/lab2_hists.png  used on input line 637.
@@ -823,62 +823,60 @@ Overfull \hbox (50.93524pt too wide) detected at line 730
  []
 
 [16] [17]
-Overfull \hbox (23.14546pt too wide) in paragraph at lines 819--822
+Overfull \hbox (23.14546pt too wide) in paragraph at lines 855--858
 []\T2A/cmr/m/n/12 ������ �� GitHub ��-��-��-��-���: [][]https://github.com/vladimir-skvortsov/spbstu-mathematical-
  []
 
-<graphics/lab5_normal.png, id=840, 394.5942pt x 298.4751pt>
+<graphics/lab5_normal.png, id=852, 394.5942pt x 298.4751pt>
 File: graphics/lab5_normal.png Graphic file (type png)
 <use graphics/lab5_normal.png>
-Package pdftex.def Info: graphics/lab5_normal.png  used on input line 1023.
+Package pdftex.def Info: graphics/lab5_normal.png  used on input line 1059.
 (pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
-<graphics/lab6_sq.png, id=841, 394.5942pt x 298.4751pt>
+<graphics/lab6_sq.png, id=853, 394.5942pt x 298.4751pt>
 File: graphics/lab6_sq.png Graphic file (type png)
 <use graphics/lab6_sq.png>
-Package pdftex.def Info: graphics/lab6_sq.png  used on input line 1034.
+Package pdftex.def Info: graphics/lab6_sq.png  used on input line 1068.
 (pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
-[18 <./graphics/lab5_normal.png>] [19] [20 <./graphics/lab6_sq.png>]
-<graphics/lab6_abs.png, id=863, 394.5942pt x 298.4751pt>
+<graphics/lab6_abs.png, id=854, 394.5942pt x 298.4751pt>
 File: graphics/lab6_abs.png Graphic file (type png)
 <use graphics/lab6_abs.png>
-Package pdftex.def Info: graphics/lab6_abs.png  used on input line 1047.
+Package pdftex.def Info: graphics/lab6_abs.png  used on input line 1075.
 (pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
-<graphics/lab6_sq_mod.png, id=864, 394.5942pt x 298.4751pt>
-File: graphics/lab6_sq_mod.png Graphic file (type png)
-<use graphics/lab6_sq_mod.png>
-Package pdftex.def Info: graphics/lab6_sq_mod.png  used on input line 1060.
-(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
- [21 <./graphics/lab6_abs.png>] [22 <./graphics/lab6_sq_mod.png>]
-<graphics/lab6_abs_mod.png, id=877, 394.5942pt x 298.4751pt>
+<graphics/lab6_abs_mod.png, id=855, 394.5942pt x 298.4751pt>
 File: graphics/lab6_abs_mod.png Graphic file (type png)
 <use graphics/lab6_abs_mod.png>
-Package pdftex.def Info: graphics/lab6_abs_mod.png  used on input line 1073.
+Package pdftex.def Info: graphics/lab6_abs_mod.png  used on input line 1082.
 (pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
- [23 <./graphics/lab6_abs_mod.png>]
-Overfull \hbox (1.71164pt too wide) in paragraph at lines 1093--1097
+<graphics/lab6_sq_mod.png, id=856, 394.5942pt x 298.4751pt>
+File: graphics/lab6_sq_mod.png Graphic file (type png)
+<use graphics/lab6_sq_mod.png>
+Package pdftex.def Info: graphics/lab6_sq_mod.png  used on input line 1090.
+(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
+
+Overfull \hbox (1.71164pt too wide) in paragraph at lines 1106--1110
 []\T2A/cmr/m/n/12 ��� ���-��-��-��� ��-��-��-��-��-�� ���-��-��-��� $\OML/cmm/m/it/12 ^^Z$\T2A/cmr/m/n/12 , ����-��� ���-��-��� ��-��-��-��-��-��� ���-
  []
 
-[24] (./Математическая статистика.aux)
+[18] [19] [20 <./graphics/lab5_normal.png>] [21 <./graphics/lab6_sq.png>] [22 <./graphics/lab6_abs.png>] [23 <./graphics/lab6_abs_mod.png>] [24 <./graphics/lab6_sq_mod.png>] [25] (./Математическая статистика.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `"Математическая статистика".out' has not changed.
-(rerunfilecheck)             Checksum: 3DFFF619219AA93B40D6D11F4316BA5C;10443.
+(rerunfilecheck)             Checksum: F3BB018CD5E1E6BC147E1872C9009417;10963.
  ) 
 Here is how much of TeX's memory you used:
- 14245 strings out of 476025
- 220660 string characters out of 5790017
- 1903388 words of memory out of 5000000
- 34359 multiletter control sequences out of 15000+600000
+ 14254 strings out of 476025
+ 220775 string characters out of 5790017
+ 1904388 words of memory out of 5000000
+ 34363 multiletter control sequences out of 15000+600000
  526937 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,76p,814b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,76p,814b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "Математическая статистика.pdf" (25 pages, 897221 bytes).
+Output written on "Математическая статистика.pdf" (26 pages, 902812 bytes).
 PDF statistics:
- 998 PDF objects out of 1000 (max. 8388607)
- 583 compressed objects within 6 object streams
- 129 named destinations out of 1000 (max. 500000)
- 385 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1018 PDF objects out of 1200 (max. 8388607)
+ 601 compressed objects within 7 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 401 words of extra memory for PDF output out of 10000 (max. 10000000)
 

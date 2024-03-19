@@ -811,6 +811,42 @@
 		\tg 2 \alpha = \frac{2 \rho \sigma_x \sigma_y}{\sigma_x^2 - \sigma_y^2}.
 	\end{equation}
 
+	\subsection{Метод наименьших квадратов}
+
+	При оценивании параметров регрессионной модели используют различные
+	методы. Один из наиболее распрстранённых подходов заключается в
+	следующем: вводится мера (критерий) рассогласования отклика и
+	регрессионной функции, и оценки параметров регрессии определяются так,
+	чтобы сделать это рассогласование наименьшим. Достаточно простые
+	расчётные формулы для оценок получают при выборе критерия в виде суммы
+	квадратов отклонений значений отклика от значений регрессионной функции
+	(сумма квадратов остатков):
+
+	\begin{equation} \label{eq:lsm}
+		Q(\beta_0, \beta_1) = \sum \limits_{i=1}^n \varepsilon_i^2 =
+		\sum \limits_{i=1}^n (y_i - \beta_0 - \beta_1 x_i)^2 \rightarrow
+		\min_{\beta_0, \beta_1}.
+	\end{equation}
+
+	Задача минимизации квадратичного критерия \eqref{eq:lsm} носит название
+	задачи метода наименьших квадратов (МНК), а оценки \( \beta_0 \),
+	\( \beta_1 \) параметров \( \beta_0 \), \( \beta_1 \), реализующие минимум
+	критерия \eqref{eq:lsm}, называют МНК-оценками.
+
+	\subsection{Метод наименьших модулей}
+
+	Робастность оценок коэффициентов линейной регрессии (т.е. их
+	устойчивость по отношению к наличию в данных редких, но больших по
+	величине выбросов) может быть обеспечена различными способами. Одним из
+	них является использование метода наименьших модулей вместо метода
+	наименьших квадратов:
+
+	\begin{equation} \label{eq:lam}
+		\sum \limits_{i=1}^n |y_i - \beta_0 - \beta_1 x_i| \rightarrow
+		\min_{\beta_0, \beta_1}.
+	\end{equation}
+
+
 	\section{Описание работы}
 	Лабораторные работы выполнены с использованием Python и его сторонних
 	библиотек \verb!numpy!, \verb!pandas!, \verb!matplotlib!, \verb!seaborn! были
@@ -1025,59 +1061,36 @@
 		\end{center}
 	\end{figure}
 
-	\vspace{10em}
-
 	\subsection{Простая линейная регрессия}
 
 	\begin{figure}[htbp!]
 		\begin{center}
 			\includegraphics[width = 1\linewidth]{graphics/lab6_sq.png}
-			\caption{Метод наименьших квадратов}
+			\caption{Метод наименьших квадратов \( (1.861, 2.061) \)}
 		\end{center}
 	\end{figure}
-
-	\[
-		(1.861, 2.061)
-	\]
-
-	\vspace{10em}
 
 	\begin{figure}[htbp!]
 		\begin{center}
 			\includegraphics[width = 1\linewidth]{graphics/lab6_abs.png}
-			\caption{Метод наименьших модулей}
+			\caption{Метод наименьших модулей \( (1.7691, 2.162) \)}
 		\end{center}
 	\end{figure}
-
-	\[
-		(1.7691, 2.162)
-	\]
-
-	\vspace{10em}
-
-	\begin{figure}[htbp!]
-		\begin{center}
-			\includegraphics[width = 1\linewidth]{graphics/lab6_sq_mod.png}
-			\caption{Метод наименьших квадратов с возмущениями}
-		\end{center}
-	\end{figure}
-
-	\[
-		(2.004, 0.632)
-	\]
-
-	\vspace{10em}
 
 	\begin{figure}[htbp!]
 		\begin{center}
 			\includegraphics[width = 1\linewidth]{graphics/lab6_abs_mod.png}
-			\caption{Метод наименьших модулей с возмущениями}
+			\caption{Метод наименьших квадратов с возмущениями
+				\( (1.668, 1.990) \)}
 		\end{center}
 	\end{figure}
 
-	\[
-		(1.668, 1.990)
-	\]
+	\begin{figure}[htbp!]
+		\begin{center}
+			\includegraphics[width = 1\linewidth]{graphics/lab6_sq_mod.png}
+			\caption{Метод наименьших модулей с возмущениями \( (2.004, 0.632) \)}
+		\end{center}
+	\end{figure}
 
 	\section{Выводы}
 

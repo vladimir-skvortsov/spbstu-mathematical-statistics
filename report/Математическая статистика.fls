@@ -766,16 +766,16 @@ INPUT ./graphics/lab6_abs.png
 INPUT graphics/lab6_abs.png
 INPUT ./graphics/lab6_abs.png
 INPUT ./graphics/lab6_abs.png
-INPUT ./graphics/lab6_sq_mod.png
-INPUT ./graphics/lab6_sq_mod.png
-INPUT graphics/lab6_sq_mod.png
-INPUT ./graphics/lab6_sq_mod.png
-INPUT ./graphics/lab6_sq_mod.png
 INPUT ./graphics/lab6_abs_mod.png
 INPUT ./graphics/lab6_abs_mod.png
 INPUT graphics/lab6_abs_mod.png
 INPUT ./graphics/lab6_abs_mod.png
 INPUT ./graphics/lab6_abs_mod.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_sq_mod.png
 INPUT Математическая статистика.aux
 INPUT ./Математическая статистика.out
 INPUT ./Математическая статистика.out

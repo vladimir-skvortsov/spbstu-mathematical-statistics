@@ -32,8 +32,10 @@
 \contentsline {subsection}{\numberline {12.4}Выборочный квадрантный коэффициент корреляции}{17}{subsection.12.4}%
 \contentsline {subsection}{\numberline {12.5}Выборочный коэффициент ранговой корреляции Спирмена}{17}{subsection.12.5}%
 \contentsline {subsection}{\numberline {12.6}Эллипсы рассеивания}{17}{subsection.12.6}%
+\contentsline {subsection}{\numberline {12.7}Метод наименьших квадратов}{18}{subsection.12.7}%
+\contentsline {subsection}{\numberline {12.8}Метод наименьших модулей}{18}{subsection.12.8}%
 \contentsline {section}{\numberline {13}Описание работы}{18}{section.13}%
 \contentsline {section}{\numberline {14}Результаты}{18}{section.14}%
 \contentsline {subsection}{\numberline {14.1}Коэффициент корреляции}{18}{subsection.14.1}%
-\contentsline {subsection}{\numberline {14.2}Простая линейная регрессия}{20}{subsection.14.2}%
-\contentsline {section}{\numberline {15}Выводы}{23}{section.15}%
+\contentsline {subsection}{\numberline {14.2}Простая линейная регрессия}{18}{subsection.14.2}%
+\contentsline {section}{\numberline {15}Выводы}{18}{section.15}%

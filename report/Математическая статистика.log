@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.11)  18 MAR 2024 13:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.11)  19 MAR 2024 20:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -533,34 +533,31 @@ LaTeX Warning: Label `eq:poisson' multiply defined.
 LaTeX Warning: Label `eq:uniform' multiply defined.
 
 
-LaTeX Warning: Label `table:1' multiply defined.
-
-
-LaTeX Warning: Label `table:2' multiply defined.
+LaTeX Warning: Label `eq:ellipse' multiply defined.
 
 )
 \openout1 = `"–ú–∞—Ç–µ–º–∞—Ç–∏—á–µ—Å–∫–∞—è —Å—Ç–∞—Ç–∏—Å—Ç–∏–∫–∞.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -615,9 +612,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \th on input line 25.
+LaTeX Info: Redefining \th on input line 26.
 \c@lstlisting=\count302
-Package hyperref Info: Link coloring ON on input line 25.
+Package hyperref Info: Link coloring ON on input line 26.
  (./–ú–∞—Ç–µ–º–∞—Ç–∏—á–µ—Å–∫–∞—è —Å—Ç–∞—Ç–∏—Å—Ç–∏–∫–∞.out) (./–ú–∞—Ç–µ–º–∞—Ç–∏—á–µ—Å–∫–∞—è —Å—Ç–∞—Ç–∏—Å—Ç–∏–∫–∞.out)
 \@outlinefile=\write3
 \openout3 = `"–ú–∞—Ç–µ–º–∞—Ç–∏—á–µ—Å–∫–∞—è —Å—Ç–∞—Ç–∏—Å—Ç–∏–∫–∞.out"'.
@@ -625,30 +622,30 @@ Package hyperref Info: Link coloring ON on input line 25.
 \lbox=\box57
 \maxl=\skip54
 
-Overfull \hbox (7.20107pt too wide) detected at line 55
+Overfull \hbox (7.20107pt too wide) detected at line 56
 \T2A/cmr/m/n/17.28 ¡‡ÊÂÌÓ‚ ¿ÎÂÍÒ‡Ì‰ ÕËÍÓÎ‡Â‚Ë˜
  []
 
 
-Underfull \hbox (badness 10000) detected at line 55
+Underfull \hbox (badness 10000) detected at line 56
 \T2A/cmr/m/n/17.28 5030102/10201
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -661,190 +658,227 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 	\tableofcontents\newpage
-                               [1]
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+l.66 	\tableofcontents\newpage
+                               [1] [2] [3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 
  []
 
-[2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
-
- []
-
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 185.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 198.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (23.14546pt too wide) in paragraph at lines 187--188
+Overfull \hbox (23.14546pt too wide) in paragraph at lines 201--204
 []\T2A/cmr/m/n/12 —Ò˚ÎÍ‡ Ì‡ GitHub Â-ÔÓ-ÁË-ÚÓ-ËÈ: [][]https://github.com/vladimir-skvortsov/spbstu-mathematical-
  []
 
-[3]
-<graphics/lab1_normal.png, id=169, 1445.4pt x 722.7pt>
+[4]
+<graphics/lab1_normal.png, id=248, 1445.4pt x 722.7pt>
 File: graphics/lab1_normal.png Graphic file (type png)
 <use graphics/lab1_normal.png>
-Package pdftex.def Info: graphics/lab1_normal.png  used on input line 197.
-(pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
-
-Overfull \hbox (58.04126pt too wide) in paragraph at lines 197--198
- [] 
- []
-
-<graphics/lab1_cauchy.png, id=172, 1445.4pt x 722.7pt>
-File: graphics/lab1_cauchy.png Graphic file (type png)
-<use graphics/lab1_cauchy.png>
-Package pdftex.def Info: graphics/lab1_cauchy.png  used on input line 204.
-(pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
-
-Overfull \hbox (58.04126pt too wide) in paragraph at lines 204--205
- [] 
- []
-
-[4 <./graphics/lab1_normal.png> <./graphics/lab1_cauchy.png>]
-<graphics/lab1_student.png, id=184, 1445.4pt x 722.7pt>
-File: graphics/lab1_student.png Graphic file (type png)
-<use graphics/lab1_student.png>
-Package pdftex.def Info: graphics/lab1_student.png  used on input line 213.
+Package pdftex.def Info: graphics/lab1_normal.png  used on input line 213.
 (pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
 
 Overfull \hbox (58.04126pt too wide) in paragraph at lines 213--214
  [] 
  []
 
-<graphics/lab1_poisson.png, id=186, 1445.4pt x 722.7pt>
-File: graphics/lab1_poisson.png Graphic file (type png)
-<use graphics/lab1_poisson.png>
-Package pdftex.def Info: graphics/lab1_poisson.png  used on input line 220.
+<graphics/lab1_cauchy.png, id=251, 1445.4pt x 722.7pt>
+File: graphics/lab1_cauchy.png Graphic file (type png)
+<use graphics/lab1_cauchy.png>
+Package pdftex.def Info: graphics/lab1_cauchy.png  used on input line 220.
 (pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
 
 Overfull \hbox (58.04126pt too wide) in paragraph at lines 220--221
  [] 
  []
 
-<graphics/lab1_uniform.png, id=188, 1445.4pt x 722.7pt>
-File: graphics/lab1_uniform.png Graphic file (type png)
-<use graphics/lab1_uniform.png>
-Package pdftex.def Info: graphics/lab1_uniform.png  used on input line 227.
+[5 <./graphics/lab1_normal.png> <./graphics/lab1_cauchy.png>]
+<graphics/lab1_student.png, id=263, 1445.4pt x 722.7pt>
+File: graphics/lab1_student.png Graphic file (type png)
+<use graphics/lab1_student.png>
+Package pdftex.def Info: graphics/lab1_student.png  used on input line 229.
 (pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
 
-Overfull \hbox (58.04126pt too wide) in paragraph at lines 227--228
+Overfull \hbox (58.04126pt too wide) in paragraph at lines 229--230
  [] 
  []
 
-[5 <./graphics/lab1_student.png> <./graphics/lab1_poisson.png>]
-Overfull \hbox (7.69028pt too wide) in paragraph at lines 238--265
+<graphics/lab1_poisson.png, id=265, 1445.4pt x 722.7pt>
+File: graphics/lab1_poisson.png Graphic file (type png)
+<use graphics/lab1_poisson.png>
+Package pdftex.def Info: graphics/lab1_poisson.png  used on input line 236.
+(pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
+
+Overfull \hbox (58.04126pt too wide) in paragraph at lines 236--237
+ [] 
+ []
+
+<graphics/lab1_uniform.png, id=267, 1445.4pt x 722.7pt>
+File: graphics/lab1_uniform.png Graphic file (type png)
+<use graphics/lab1_uniform.png>
+Package pdftex.def Info: graphics/lab1_uniform.png  used on input line 243.
+(pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
+
+Overfull \hbox (58.04126pt too wide) in paragraph at lines 243--244
+ [] 
+ []
+
+[6 <./graphics/lab1_student.png> <./graphics/lab1_poisson.png>]
+Overfull \hbox (7.69028pt too wide) in paragraph at lines 254--281
  [][] 
  []
 
 
-Overfull \hbox (1.07907pt too wide) in paragraph at lines 271--298
+Overfull \hbox (1.07907pt too wide) in paragraph at lines 286--313
  [][] 
  []
 
 
-Overfull \hbox (7.69028pt too wide) in paragraph at lines 370--397
+Overfull \hbox (7.69028pt too wide) in paragraph at lines 382--409
  [][] 
  []
 
-[6 <./graphics/lab1_uniform.png>] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 405--410
+[7 <./graphics/lab1_uniform.png>] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 416--421
 
  []
 
-[8] [9]
+[9] [10]
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 486.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 506.
 
 Missing character: There is no ı in font cmr12!
 
-Overfull \hbox (23.14546pt too wide) in paragraph at lines 517--518
+Overfull \hbox (23.14546pt too wide) in paragraph at lines 550--553
 []\T2A/cmr/m/n/12 —Ò˚ÎÍ‡ Ì‡ GitHub Â-ÔÓ-ÁË-ÚÓ-ËÈ: [][]https://github.com/vladimir-skvortsov/spbstu-mathematical-
  []
 
-[10]
-<graphics/lab2_normal.png, id=662, 1445.4pt x 722.7pt>
+[11]
+<graphics/lab2_normal.png, id=742, 1445.4pt x 722.7pt>
 File: graphics/lab2_normal.png Graphic file (type png)
 <use graphics/lab2_normal.png>
-Package pdftex.def Info: graphics/lab2_normal.png  used on input line 527.
+Package pdftex.def Info: graphics/lab2_normal.png  used on input line 562.
 (pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
 
-Overfull \hbox (58.04126pt too wide) in paragraph at lines 527--528
+Overfull \hbox (58.04126pt too wide) in paragraph at lines 562--563
  [] 
  []
 
-<graphics/lab2_cauchy.png, id=664, 1445.4pt x 722.7pt>
+<graphics/lab2_cauchy.png, id=744, 1445.4pt x 722.7pt>
 File: graphics/lab2_cauchy.png Graphic file (type png)
 <use graphics/lab2_cauchy.png>
-Package pdftex.def Info: graphics/lab2_cauchy.png  used on input line 534.
+Package pdftex.def Info: graphics/lab2_cauchy.png  used on input line 569.
 (pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
 
-Overfull \hbox (58.04126pt too wide) in paragraph at lines 534--535
+Overfull \hbox (58.04126pt too wide) in paragraph at lines 569--570
  [] 
  []
 
-[11 <./graphics/lab2_normal.png> <./graphics/lab2_cauchy.png>]
-<graphics/lab2_student.png, id=674, 1445.4pt x 722.7pt>
+[12 <./graphics/lab2_normal.png> <./graphics/lab2_cauchy.png>]
+<graphics/lab2_student.png, id=755, 1445.4pt x 722.7pt>
 File: graphics/lab2_student.png Graphic file (type png)
 <use graphics/lab2_student.png>
-Package pdftex.def Info: graphics/lab2_student.png  used on input line 543.
+Package pdftex.def Info: graphics/lab2_student.png  used on input line 578.
 (pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
 
-Overfull \hbox (58.04126pt too wide) in paragraph at lines 543--544
+Overfull \hbox (58.04126pt too wide) in paragraph at lines 578--579
  [] 
  []
 
-<graphics/lab2_poisson.png, id=676, 1445.4pt x 722.7pt>
+<graphics/lab2_poisson.png, id=757, 1445.4pt x 722.7pt>
 File: graphics/lab2_poisson.png Graphic file (type png)
 <use graphics/lab2_poisson.png>
-Package pdftex.def Info: graphics/lab2_poisson.png  used on input line 550.
+Package pdftex.def Info: graphics/lab2_poisson.png  used on input line 585.
 (pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
 
-Overfull \hbox (58.04126pt too wide) in paragraph at lines 550--551
+Overfull \hbox (58.04126pt too wide) in paragraph at lines 585--586
  [] 
  []
 
-<graphics/lab2_uniform.png, id=678, 1445.4pt x 722.7pt>
+<graphics/lab2_uniform.png, id=759, 1445.4pt x 722.7pt>
 File: graphics/lab2_uniform.png Graphic file (type png)
 <use graphics/lab2_uniform.png>
-Package pdftex.def Info: graphics/lab2_uniform.png  used on input line 557.
+Package pdftex.def Info: graphics/lab2_uniform.png  used on input line 592.
 (pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
 
-Overfull \hbox (58.04126pt too wide) in paragraph at lines 557--558
+Overfull \hbox (58.04126pt too wide) in paragraph at lines 592--593
  [] 
  []
 
-[12 <./graphics/lab2_student.png> <./graphics/lab2_poisson.png>]
-<graphics/lab2_hists.png, id=690, 1445.4pt x 722.7pt>
+[13 <./graphics/lab2_student.png> <./graphics/lab2_poisson.png>]
+<graphics/lab2_hists.png, id=770, 1445.4pt x 722.7pt>
 File: graphics/lab2_hists.png Graphic file (type png)
 <use graphics/lab2_hists.png>
-Package pdftex.def Info: graphics/lab2_hists.png  used on input line 602.
+Package pdftex.def Info: graphics/lab2_hists.png  used on input line 637.
 (pdftex.def)             Requested size: 541.73813pt x 270.86847pt.
 
-Overfull \hbox (58.04126pt too wide) in paragraph at lines 602--603
+Overfull \hbox (58.04126pt too wide) in paragraph at lines 637--639
  [] 
  []
 
-[13 <./graphics/lab2_uniform.png>] [14 <./graphics/lab2_hists.png>] [15] (./–ú–∞—Ç–µ–º–∞—Ç–∏—á–µ—Å–∫–∞—è —Å—Ç–∞—Ç–∏—Å—Ç–∏–∫–∞.aux)
+[14 <./graphics/lab2_uniform.png>] [15 <./graphics/lab2_hists.png>]
+Overfull \hbox (50.93524pt too wide) detected at line 730
+[]
+ []
+
+[16] [17]
+Overfull \hbox (23.14546pt too wide) in paragraph at lines 819--822
+[]\T2A/cmr/m/n/12 —Ò˚ÎÍ‡ Ì‡ GitHub Â-ÔÓ-ÁË-ÚÓ-ËÈ: [][]https://github.com/vladimir-skvortsov/spbstu-mathematical-
+ []
+
+<graphics/lab5_normal.png, id=840, 394.5942pt x 298.4751pt>
+File: graphics/lab5_normal.png Graphic file (type png)
+<use graphics/lab5_normal.png>
+Package pdftex.def Info: graphics/lab5_normal.png  used on input line 1023.
+(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
+<graphics/lab6_sq.png, id=841, 394.5942pt x 298.4751pt>
+File: graphics/lab6_sq.png Graphic file (type png)
+<use graphics/lab6_sq.png>
+Package pdftex.def Info: graphics/lab6_sq.png  used on input line 1034.
+(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
+[18 <./graphics/lab5_normal.png>] [19] [20 <./graphics/lab6_sq.png>]
+<graphics/lab6_abs.png, id=863, 394.5942pt x 298.4751pt>
+File: graphics/lab6_abs.png Graphic file (type png)
+<use graphics/lab6_abs.png>
+Package pdftex.def Info: graphics/lab6_abs.png  used on input line 1047.
+(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
+<graphics/lab6_sq_mod.png, id=864, 394.5942pt x 298.4751pt>
+File: graphics/lab6_sq_mod.png Graphic file (type png)
+<use graphics/lab6_sq_mod.png>
+Package pdftex.def Info: graphics/lab6_sq_mod.png  used on input line 1060.
+(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
+ [21 <./graphics/lab6_abs.png>] [22 <./graphics/lab6_sq_mod.png>]
+<graphics/lab6_abs_mod.png, id=877, 394.5942pt x 298.4751pt>
+File: graphics/lab6_abs_mod.png Graphic file (type png)
+<use graphics/lab6_abs_mod.png>
+Package pdftex.def Info: graphics/lab6_abs_mod.png  used on input line 1073.
+(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
+ [23 <./graphics/lab6_abs_mod.png>]
+Overfull \hbox (1.71164pt too wide) in paragraph at lines 1093--1097
+[]\T2A/cmr/m/n/12 œË Û‚Â-ÎË-˜Â-ÌËË ÍÓ-˝Ù-ÙË-ˆË-ÂÌ-Ú‡ ÍÓ-Â-Îˇ-ˆËË $\OML/cmm/m/it/12 ^^Z$\T2A/cmr/m/n/12 , ÒÂ‰-ÌËÂ ÁÌ‡-˜Â-ÌËˇ ÍÓ-˝Ù-ÙË-ˆË-ÂÌ-ÚÓ‚ œË-
+ []
+
+[24] (./–ú–∞—Ç–µ–º–∞—Ç–∏—á–µ—Å–∫–∞—è —Å—Ç–∞—Ç–∏—Å—Ç–∏–∫–∞.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `"–ú–∞—Ç–µ–º–∞—Ç–∏—á–µ—Å–∫–∞—è —Å—Ç–∞—Ç–∏—Å—Ç–∏–∫–∞".out' has not changed.
-(rerunfilecheck)             Checksum: AA8EF6D3686EB0827135396C37B9C2D9;6274.
+(rerunfilecheck)             Checksum: 3DFFF619219AA93B40D6D11F4316BA5C;10443.
  ) 
 Here is how much of TeX's memory you used:
- 14144 strings out of 476025
- 218929 string characters out of 5790017
+ 14245 strings out of 476025
+ 220660 string characters out of 5790017
  1903388 words of memory out of 5000000
- 34309 multiletter control sequences out of 15000+600000
- 526009 words of font info for 68 fonts, out of 8000000 for 9000
+ 34359 multiletter control sequences out of 15000+600000
+ 526937 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,76p,1157b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "–ú–∞—Ç–µ–º–∞—Ç–∏—á–µ—Å–∫–∞—è —Å—Ç–∞—Ç–∏—Å—Ç–∏–∫–∞.pdf" (16 pages, 790539 bytes).
+ 75i,13n,76p,814b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on "–ú–∞—Ç–µ–º–∞—Ç–∏—á–µ—Å–∫–∞—è —Å—Ç–∞—Ç–∏—Å—Ç–∏–∫–∞.pdf" (25 pages, 897221 bytes).
 PDF statistics:
- 803 PDF objects out of 1000 (max. 8388607)
- 410 compressed objects within 5 object streams
- 86 named destinations out of 1000 (max. 500000)
- 240 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 998 PDF objects out of 1000 (max. 8388607)
+ 583 compressed objects within 6 object streams
+ 129 named destinations out of 1000 (max. 500000)
+ 385 words of extra memory for PDF output out of 10000 (max. 10000000)
 

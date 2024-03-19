@@ -748,9 +748,38 @@ INPUT ./graphics/lab2_hists.png
 INPUT graphics/lab2_hists.png
 INPUT ./graphics/lab2_hists.png
 INPUT ./graphics/lab2_hists.png
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT ./graphics/lab5_normal.png
+INPUT ./graphics/lab5_normal.png
+INPUT graphics/lab5_normal.png
+INPUT ./graphics/lab5_normal.png
+INPUT ./graphics/lab5_normal.png
+INPUT ./graphics/lab6_sq.png
+INPUT ./graphics/lab6_sq.png
+INPUT graphics/lab6_sq.png
+INPUT ./graphics/lab6_sq.png
+INPUT ./graphics/lab6_sq.png
+INPUT ./graphics/lab6_abs.png
+INPUT ./graphics/lab6_abs.png
+INPUT graphics/lab6_abs.png
+INPUT ./graphics/lab6_abs.png
+INPUT ./graphics/lab6_abs.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_abs_mod.png
+INPUT ./graphics/lab6_abs_mod.png
+INPUT graphics/lab6_abs_mod.png
+INPUT ./graphics/lab6_abs_mod.png
+INPUT ./graphics/lab6_abs_mod.png
 INPUT Математическая статистика.aux
 INPUT ./Математическая статистика.out
 INPUT ./Математическая статистика.out
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb

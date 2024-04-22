@@ -16,3 +16,6 @@
 \contentsline {subsection}{\numberline {4.1}Коэффициент корреляции}{4}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Простая линейная регрессия}{8}{subsection.4.2}%
 \contentsline {section}{\numberline {5}Выводы}{12}{section.5}%
+\contentsline {section}{\numberline {6}Постановка задачи}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Проверка гипотезы о законе распреде- ления генеральной совокупности. Метод хи-квадрат}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Проверка гипотезы о равенстве дисперсий двух нормальных генеральных совокупностей}{12}{subsection.6.2}%

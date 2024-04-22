@@ -1,0 +1,18 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Коэффициент корреляции}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Простая линейная регрессия}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Теоретическое обоснование}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Двумерное нормальное распределение}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Корреляционный момент (ковариация) и коэффициент корреляции}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Выборочный коэффициент корреляции Пирсона}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Выборочный квадрантный коэффициент корреляции}{3}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Выборочный коэффициент ранговой корреляции Спирмена}{3}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Эллипсы рассеивания}{3}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Метод наименьших квадратов}{3}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Метод наименьших модулей}{4}{subsection.2.8}%
+\contentsline {section}{\numberline {3}Описание работы}{4}{section.3}%
+\contentsline {section}{\numberline {4}Результаты}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Коэффициент корреляции}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Простая линейная регрессия}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Выводы}{12}{section.5}%

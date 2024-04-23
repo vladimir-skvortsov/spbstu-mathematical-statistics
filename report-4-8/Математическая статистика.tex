@@ -497,6 +497,31 @@
 
 	\clearpage
 
+	\begin{table}[htbp]
+		\centering
+		\begin{tabular}{ |c|c|c|c|c|c|c| }
+			\hline
+			& \( a \)  & \( a' \) & \( b \) & \( b' \) & \( \Delta a \) & \( \Delta b \) \\
+			\hline
+			МНК & 2.0388 & 2.3383 & 2.1955 & 0.6102 & 1.3383 & 0.7221 \\ \hline
+			МНМ & 2.3634 & 1.9944  & 1.9945 & 2.3634 & 0.1561 & 0.1849 \\ \hline
+		\end{tabular}
+		\caption{Таблица коэффициентов}
+	\end{table}
+
+	Здесь:
+
+	\begin{itemize}
+		\item \( y = ax + b \) — уравнение линейной регресси для методов МНК и
+			МНМ без выбросов
+		\item \( y = a'x + b' \) — уравнение линейной регресси для методов МНК и
+			МНМ с выбросами
+		\item \( \Delta a = \frac{|a - a'|}{a} \)
+		\item \( \Delta b = \frac{|b - b'|}{b} \)
+	\end{itemize}
+
+	\clearpage
+
 	\section{Выводы}
 
 	На основе полученных характеристик (включая среднее значение, среднее

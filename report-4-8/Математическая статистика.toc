@@ -15,12 +15,12 @@
 \contentsline {section}{\numberline {4}Результаты}{4}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Коэффициент корреляции}{4}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Простая линейная регрессия}{8}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Выводы}{12}{section.5}%
-\contentsline {section}{\numberline {6}Постановка задачи}{12}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Проверка гипотезы о законе распреде- ления генеральной совокупности. Метод хи-квадрат}{12}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Проверка гипотезы о равенстве дисперсий двух нормальных генеральных совокупностей}{12}{subsection.6.2}%
-\contentsline {section}{\numberline {7}Теоретическое обоснование}{13}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Проверка гипотезы о законе распреде- ления генеральной совокупности. Метод хи-квадрат}{13}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Проверка гипотезы о равенстве дисперсий двух нормальных генеральных совокупностей}{13}{subsection.7.2}%
-\contentsline {subsubsection}{\numberline {7.2.1}Правило проверки гипотезы о законе распре- деления по методу \( \chi ^2 \)}{13}{subsubsection.7.2.1}%
-\contentsline {subsubsection}{\numberline {7.2.2}Тест Фишера}{13}{subsubsection.7.2.2}%
+\contentsline {section}{\numberline {5}Выводы}{13}{section.5}%
+\contentsline {section}{\numberline {6}Постановка задачи}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Проверка гипотезы о законе распреде- ления генеральной совокупности. Метод хи-квадрат}{13}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Проверка гипотезы о равенстве дисперсий двух нормальных генеральных совокупностей}{13}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Теоретическое обоснование}{14}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Проверка гипотезы о законе распреде- ления генеральной совокупности. Метод хи-квадрат}{14}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Проверка гипотезы о равенстве дисперсий двух нормальных генеральных совокупностей}{14}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Правило проверки гипотезы о законе распре- деления по методу \( \chi ^2 \)}{14}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}Тест Фишера}{14}{subsubsection.7.2.2}%

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1713905338.3004 "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report-4-8/Математическая статистика.tex" "Математическая статистика.pdf" "Математическая статистика" 1713905339.68543 0
+["pdflatex"] 1713906137.30084 "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report-4-8/Математическая статистика.tex" "Математическая статистика.pdf" "Математическая статистика" 1713906138.61342 0
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1712594461.4327 3308 eee81981029f67083258db36df06e523 ""
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1712594455.58063 3304 6a543c07045572737981351171e0505e ""
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1712609434.25863 3312 d199be9bd555944e2403193d58a0256a ""
@@ -9,7 +9,7 @@
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1712594452.87019 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1712609430.80928 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm" 1713214807.503 1272 bf3bb5cc29880b269c8bcb412a1ac6e2 ""
-  "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report-4-8/Математическая статистика.tex" 1713905338.11984 27629 00906ed9289e548a147c30059f6578cc ""
+  "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report-4-8/Математическая статистика.tex" 1713906138.10195 27634 41b82bc8f0fef38c8ad28f75e5e82294 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1136849721 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -129,14 +129,14 @@
   "graphics/lab5_ellips_100.png" 1713904712.78025 110966 545b1abbd21c5bbdac5eed82f76d9fb5 ""
   "graphics/lab5_ellips_20.png" 1713904691.54156 106898 f6caf23a88a1ba29048051a923c8ae99 ""
   "graphics/lab5_ellips_60.png" 1713904702.20043 109051 7e82623d5274a5f51645661b35550566 ""
-  "graphics/lab6_abs.png" 1713818346.34725 16874 8eb720539fdc43a0fdae54dbc9596fe3 ""
-  "graphics/lab6_abs_mod.png" 1713818346.34774 15773 0056b3106eb68faa10cccd44b8b16001 ""
-  "graphics/lab6_sq.png" 1713818346.34848 16990 d8d51fe2962b8bd4fbc18e40f6089ff8 ""
-  "graphics/lab6_sq_mod.png" 1713818346.34917 15902 36683be14c09443f79ff4109551c12d9 ""
-  "Математическая статистика.aux" 1713905339.5824 8101 d3102929c0e5e2436540e2b0c5db90e5 "pdflatex"
-  "Математическая статистика.out" 1713905339.58381 8675 287ca204693658556031203ca00280b5 "pdflatex"
-  "Математическая статистика.tex" 1713905338.11984 27629 00906ed9289e548a147c30059f6578cc ""
-  "Математическая статистика.toc" 1713905339.58408 3394 6cc5c4303db50adb08b32d4d758edc41 "pdflatex"
+  "graphics/lab6_la.png" 1713905950.0865 15682 b8f7352dea4f94ce6fe159c212712194 ""
+  "graphics/lab6_la_outliners.png" 1713905979.4064 14291 fc5d86c7d40c32d4ee4534d7dbf97b7d ""
+  "graphics/lab6_ls.png" 1713905890.24507 16614 f4791ee73412a704cab10a6b1f80d277 ""
+  "graphics/lab6_ls_outliners.png" 1713905963.85516 12204 6bee58fe8712d414b9c4842377b14a2c ""
+  "Математическая статистика.aux" 1713906138.51167 8108 0207d68fe29668ef79f24ab8592aa3cb "pdflatex"
+  "Математическая статистика.out" 1713906138.51322 8675 287ca204693658556031203ca00280b5 "pdflatex"
+  "Математическая статистика.tex" 1713906138.10195 27634 41b82bc8f0fef38c8ad28f75e5e82294 ""
+  "Математическая статистика.toc" 1713906138.51357 3394 6cc5c4303db50adb08b32d4d758edc41 "pdflatex"
   (generated)
   "Математическая статистика.aux"
   "Математическая статистика.log"

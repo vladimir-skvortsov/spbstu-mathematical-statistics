@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.6)  23 APR 2024 23:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.6)  24 APR 2024 00:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -676,46 +676,46 @@ File: graphics/lab5_ellips_100.png Graphic file (type png)
 Package pdftex.def Info: graphics/lab5_ellips_100.png  used on input line 459.
 (pdftex.def)             Requested size: 386.95897pt x 266.90256pt.
 [4] [5] [6 <./graphics/lab5_ellips_20.png>] [7 <./graphics/lab5_ellips_60.png> <./graphics/lab5_ellips_100.png>]
-<graphics/lab6_sq.png, id=242, 394.5942pt x 298.4751pt>
-File: graphics/lab6_sq.png Graphic file (type png)
-<use graphics/lab6_sq.png>
-Package pdftex.def Info: graphics/lab6_sq.png  used on input line 471.
-(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
-<graphics/lab6_abs.png, id=244, 394.5942pt x 298.4751pt>
-File: graphics/lab6_abs.png Graphic file (type png)
-<use graphics/lab6_abs.png>
-Package pdftex.def Info: graphics/lab6_abs.png  used on input line 478.
-(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
-<graphics/lab6_abs_mod.png, id=245, 394.5942pt x 298.4751pt>
-File: graphics/lab6_abs_mod.png Graphic file (type png)
-<use graphics/lab6_abs_mod.png>
-Package pdftex.def Info: graphics/lab6_abs_mod.png  used on input line 485.
-(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
-<graphics/lab6_sq_mod.png, id=246, 394.5942pt x 298.4751pt>
-File: graphics/lab6_sq_mod.png Graphic file (type png)
-<use graphics/lab6_sq_mod.png>
-Package pdftex.def Info: graphics/lab6_sq_mod.png  used on input line 493.
-(pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
+<graphics/lab6_ls.png, id=242, 642.4pt x 481.8pt>
+File: graphics/lab6_ls.png Graphic file (type png)
+<use graphics/lab6_ls.png>
+Package pdftex.def Info: graphics/lab6_ls.png  used on input line 471.
+(pdftex.def)             Requested size: 483.69687pt x 362.78268pt.
+<graphics/lab6_la.png, id=243, 642.4pt x 481.8pt>
+File: graphics/lab6_la.png Graphic file (type png)
+<use graphics/lab6_la.png>
+Package pdftex.def Info: graphics/lab6_la.png  used on input line 478.
+(pdftex.def)             Requested size: 483.69687pt x 362.78268pt.
+<graphics/lab6_ls_outliners.png, id=244, 642.4pt x 481.8pt>
+File: graphics/lab6_ls_outliners.png Graphic file (type png)
+<use graphics/lab6_ls_outliners.png>
+Package pdftex.def Info: graphics/lab6_ls_outliners.png  used on input line 485.
+(pdftex.def)             Requested size: 483.69687pt x 362.78268pt.
+<graphics/lab6_la_outliners.png, id=245, 642.4pt x 481.8pt>
+File: graphics/lab6_la_outliners.png Graphic file (type png)
+<use graphics/lab6_la_outliners.png>
+Package pdftex.def Info: graphics/lab6_la_outliners.png  used on input line 493.
+(pdftex.def)             Requested size: 483.69687pt x 362.78268pt.
  [8
 
- <./graphics/lab6_sq.png>] [9 <./graphics/lab6_abs.png>] [10 <./graphics/lab6_abs_mod.png>] [11 <./graphics/lab6_sq_mod.png>] [12
+ <./graphics/lab6_ls.png (PNG copy)>] [9 <./graphics/lab6_la.png (PNG copy)>] [10 <./graphics/lab6_ls_outliners.png (PNG copy)>] [11 <./graphics/lab6_la_outliners.png (PNG copy)>] [12
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (1.71164pt too wide) in paragraph at lines 536--540
+Overfull \hbox (1.71164pt too wide) in paragraph at lines 537--541
 []\T2A/cmr/m/n/12 При уве-ли-че-нии ко-эф-фи-ци-ен-та кор-ре-ля-ции $\OML/cmm/m/it/12 ^^Z$\T2A/cmr/m/n/12 , сред-ние зна-че-ния ко-эф-фи-ци-ен-тов Пир-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 587.
+(hyperref)                removing `math shift' on input line 588.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\chi' on input line 587.
+(hyperref)                removing `\chi' on input line 588.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 587.
+(hyperref)                removing `superscript' on input line 588.
 
 [13
 
@@ -732,18 +732,18 @@ Package rerunfilecheck Info: File `"РњР°С‚РµРјР°С‚РёС‡РµСЃРєР°СЏ СЃС‚Р°С‚РёСЃС‚Р
 (rerunfilecheck)             Checksum: 287CA204693658556031203CA00280B5;8675.
  ) 
 Here is how much of TeX's memory you used:
- 14363 strings out of 474116
- 220407 string characters out of 5743683
+ 14379 strings out of 474116
+ 220941 string characters out of 5743683
  1970187 words of memory out of 5000000
- 36460 multiletter control sequences out of 15000+600000
+ 36476 multiletter control sequences out of 15000+600000
  572719 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,896b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "РњР°С‚РµРјР°С‚РёС‡РµСЃРєР°СЏ СЃС‚Р°С‚РёСЃС‚РёРєР°.pdf" (15 pages, 544176 bytes).
+Output written on "РњР°С‚РµРјР°С‚РёС‡РµСЃРєР°СЏ СЃС‚Р°С‚РёСЃС‚РёРєР°.pdf" (15 pages, 557933 bytes).
 PDF statistics:
- 405 PDF objects out of 1000 (max. 8388607)
- 338 compressed objects within 4 object streams
+ 400 PDF objects out of 1000 (max. 8388607)
+ 337 compressed objects within 4 object streams
  79 named destinations out of 1000 (max. 500000)
  236 words of extra memory for PDF output out of 10000 (max. 10000000)
 

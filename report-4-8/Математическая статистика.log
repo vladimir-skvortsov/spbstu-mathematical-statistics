@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.6)  23 APR 2024 00:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.6)  23 APR 2024 23:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -660,38 +660,38 @@ Overfull \hbox (23.14546pt too wide) in paragraph at lines 239--242
 []\T2A/cmr/m/n/12 ������ �� GitHub ��-��-��-��-���: [][]https://github.com/vladimir-skvortsov/spbstu-mathematical-
  []
 
-<graphics/lab5_ellips_1.png, id=212, 394.5942pt x 298.4751pt>
-File: graphics/lab5_ellips_1.png Graphic file (type png)
-<use graphics/lab5_ellips_1.png>
-Package pdftex.def Info: graphics/lab5_ellips_1.png  used on input line 443.
-(pdftex.def)             Requested size: 386.95897pt x 292.7222pt.
-<graphics/lab5_ellips_2.png, id=214, 394.5942pt x 298.4751pt>
-File: graphics/lab5_ellips_2.png Graphic file (type png)
-<use graphics/lab5_ellips_2.png>
-Package pdftex.def Info: graphics/lab5_ellips_2.png  used on input line 451.
-(pdftex.def)             Requested size: 386.95897pt x 292.7222pt.
-<graphics/lab5_ellips_3.png, id=215, 394.5942pt x 298.4751pt>
-File: graphics/lab5_ellips_3.png Graphic file (type png)
-<use graphics/lab5_ellips_3.png>
-Package pdftex.def Info: graphics/lab5_ellips_3.png  used on input line 459.
-(pdftex.def)             Requested size: 386.95897pt x 292.7222pt.
-[4] [5] [6 <./graphics/lab5_ellips_1.png>] [7 <./graphics/lab5_ellips_2.png> <./graphics/lab5_ellips_3.png>]
-<graphics/lab6_sq.png, id=246, 394.5942pt x 298.4751pt>
+<graphics/lab5_ellips_20.png, id=212, 1216.545pt x 839.135pt>
+File: graphics/lab5_ellips_20.png Graphic file (type png)
+<use graphics/lab5_ellips_20.png>
+Package pdftex.def Info: graphics/lab5_ellips_20.png  used on input line 443.
+(pdftex.def)             Requested size: 386.95897pt x 266.90256pt.
+<graphics/lab5_ellips_60.png, id=213, 1216.545pt x 839.135pt>
+File: graphics/lab5_ellips_60.png Graphic file (type png)
+<use graphics/lab5_ellips_60.png>
+Package pdftex.def Info: graphics/lab5_ellips_60.png  used on input line 451.
+(pdftex.def)             Requested size: 386.95897pt x 266.90256pt.
+<graphics/lab5_ellips_100.png, id=214, 1216.545pt x 839.135pt>
+File: graphics/lab5_ellips_100.png Graphic file (type png)
+<use graphics/lab5_ellips_100.png>
+Package pdftex.def Info: graphics/lab5_ellips_100.png  used on input line 459.
+(pdftex.def)             Requested size: 386.95897pt x 266.90256pt.
+[4] [5] [6 <./graphics/lab5_ellips_20.png>] [7 <./graphics/lab5_ellips_60.png> <./graphics/lab5_ellips_100.png>]
+<graphics/lab6_sq.png, id=242, 394.5942pt x 298.4751pt>
 File: graphics/lab6_sq.png Graphic file (type png)
 <use graphics/lab6_sq.png>
 Package pdftex.def Info: graphics/lab6_sq.png  used on input line 471.
 (pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
-<graphics/lab6_abs.png, id=247, 394.5942pt x 298.4751pt>
+<graphics/lab6_abs.png, id=244, 394.5942pt x 298.4751pt>
 File: graphics/lab6_abs.png Graphic file (type png)
 <use graphics/lab6_abs.png>
 Package pdftex.def Info: graphics/lab6_abs.png  used on input line 478.
 (pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
-<graphics/lab6_abs_mod.png, id=248, 394.5942pt x 298.4751pt>
+<graphics/lab6_abs_mod.png, id=245, 394.5942pt x 298.4751pt>
 File: graphics/lab6_abs_mod.png Graphic file (type png)
 <use graphics/lab6_abs_mod.png>
 Package pdftex.def Info: graphics/lab6_abs_mod.png  used on input line 485.
 (pdftex.def)             Requested size: 483.69687pt x 365.90161pt.
-<graphics/lab6_sq_mod.png, id=249, 394.5942pt x 298.4751pt>
+<graphics/lab6_sq_mod.png, id=246, 394.5942pt x 298.4751pt>
 File: graphics/lab6_sq_mod.png Graphic file (type png)
 <use graphics/lab6_sq_mod.png>
 Package pdftex.def Info: graphics/lab6_sq_mod.png  used on input line 493.
@@ -730,17 +730,17 @@ Package rerunfilecheck Info: File `"Математическая статист�
 (rerunfilecheck)             Checksum: 287CA204693658556031203CA00280B5;8675.
  ) 
 Here is how much of TeX's memory you used:
- 14343 strings out of 474116
- 219879 string characters out of 5743683
+ 14355 strings out of 474116
+ 220283 string characters out of 5743683
  1970187 words of memory out of 5000000
- 36444 multiletter control sequences out of 15000+600000
+ 36456 multiletter control sequences out of 15000+600000
  572382 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,896b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "Математическая статистика.pdf" (14 pages, 381011 bytes).
+Output written on "Математическая статистика.pdf" (14 pages, 533336 bytes).
 PDF statistics:
- 393 PDF objects out of 1000 (max. 8388607)
+ 390 PDF objects out of 1000 (max. 8388607)
  327 compressed objects within 4 object streams
  77 named destinations out of 1000 (max. 500000)
  236 words of extra memory for PDF output out of 10000 (max. 10000000)

@@ -230,7 +230,6 @@
 		\min_{\beta_0, \beta_1}.
 	\end{equation}
 
-
 	\section{Описание работы}
 	Лабораторные работы выполнены с использованием Python и его сторонних
 	библиотек \verb!numpy!, \verb!pandas!, \verb!matplotlib!, \verb!seaborn! были
@@ -634,13 +633,45 @@
 				\eqref{eq:unbiased_estimations_of_dispersion},
 			\item Выбираем статистику критерия \eqref{eq:fisher},
 			\item Выбираем уровень значимости \( \alpha \),
-			\item По таблице квантиль \( F_{1 - \frac{\alpha}{2}} (k_1, k2) \)
+			\item По таблице квантиль \( F_{1 - \frac{\alpha}{2}} (k_1, k_2) \)
 				распределения Фишера.
 			\item Вычисляем выборочное значение \( F_V \) статистики критерия.
-			\item Сравниваем \( F_B \) и \( F_{1 - \frac{\alpha}{2}} (k_1, k2) \).
-				Если \( F_B < F_{1 - \frac{\alpha}{2}} (k_1, k2) \), то гипотеза
+			\item Сравниваем \( F_B \) и \( F_{1 - \frac{\alpha}{2}} (k_1, k_2) \).
+				Если \( F_B < F_{1 - \frac{\alpha}{2}} (k_1, k_2) \), то гипотеза
 				\( H_0 \) на выбранном уровне значимости \( \alpha \) принимается.
 				В противном случае — отвергается.
 		\end{enumerate}
 
+		\section{Описание работы}
+
+		Лабораторные работы выполнены с использованием Python и его сторонних
+		библиотек \verb!numpy!, \verb!pandas!, \verb!matplotlib!, \verb!seaborn! были
+		построены гистограммы распределений и посчитаны характеристики пложения.
+
+		Ссылка на GitHub репозиторий:
+		\href{https://github.com/vladimir-skvortsov/spbstu-mathematical-statistics}
+		{https://github.com/vladimir-skvortsov/spbstu-mathematical-statistics}
+
+		\section{Результаты}
+
+		\subsection{Проверка гипотезы о законе распределения генеральной
+			совокупности. Метод хи-квадрат}
+
+		\subsection{Проверка гипотезы о равенстве дисперсий двух нормальных
+			генеральных совокупностей}
+
+			\begin{table}[htbp]
+				\centering
+				\begin{tabular}{ |c|c|c|c|c|c| }
+					\hline
+					& \( s_X^2 \) & \( s_Y^2 \) & \( F_B \)
+					& \(F_{1 - \frac{\alpha}{2}} (k_1, k_2) \) & Результат \\
+					\hline
+					20 и 40 & 1.1089 & 1.1037 & 1.0047 & 2.096 & Принимается \\ \hline
+					20 и 100 & 1.1089 & 0.8928 & 1.2420 & 1.8696 & Принимается \\ \hline
+				\end{tabular}
+				\caption{Результаты теста Фишера}
+			\end{table}
+
+		\section{Выводы}
 \end{document}

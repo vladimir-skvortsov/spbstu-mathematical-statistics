@@ -21,7 +21,7 @@
 \contentsline {subsection}{\numberline {6.2}Проверка гипотезы о равенстве дисперсий двух нормальных генеральных совокупностей}{13}{subsection.6.2}%
 \contentsline {section}{\numberline {7}Теоретическое обоснование}{14}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Проверка гипотезы о законе распределения генеральной совокупности. Метод хи-квадрат}{14}{subsection.7.1}%
-\contentsline {subsubsection}{\numberline {7.1.1}Правило проверки гипотезы о законе распре- деления по методу \( \chi ^2 \)}{14}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Правило проверки гипотезы о законе распределения по методу \( \chi ^2 \)}{14}{subsubsection.7.1.1}%
 \contentsline {subsection}{\numberline {7.2}Проверка гипотезы о равенстве дисперсий двух нормальных генеральных совокупностей}{14}{subsection.7.2}%
 \contentsline {subsubsection}{\numberline {7.2.1}Тест Фишера}{14}{subsubsection.7.2.1}%
 \contentsline {section}{\numberline {8}Описание работы}{15}{section.8}%

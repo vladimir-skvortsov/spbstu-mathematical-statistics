@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1716298255.73016 "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/spbstu-mathematical-statistics/report-4-8/Математическая статистика.tex" "Математическая статистика.pdf" "Математическая статистика" 1716298257.29661 0
+["pdflatex"] 1716298299.37595 "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/spbstu-mathematical-statistics/report-4-8/Математическая статистика.tex" "Математическая статистика.pdf" "Математическая статистика" 1716298300.85205 0
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1712594461.4327 3308 eee81981029f67083258db36df06e523 ""
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1712594455.58063 3304 6a543c07045572737981351171e0505e ""
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1712609434.25863 3312 d199be9bd555944e2403193d58a0256a ""
@@ -9,7 +9,7 @@
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1712594452.87019 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1712609430.80928 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/Users/vladimirskvortsov/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm" 1713214807.503 1272 bf3bb5cc29880b269c8bcb412a1ac6e2 ""
-  "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/spbstu-mathematical-statistics/report-4-8/Математическая статистика.tex" 1716298255.51369 37324 9bfe152babc7e0f2348ba7fefdd14ca2 ""
+  "/Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/spbstu-mathematical-statistics/report-4-8/Математическая статистика.tex" 1716298297.54523 37336 943e5e104d4cac0c0ae942eb22a462b1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1136849721 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -134,10 +134,10 @@
   "graphics/lab6_abs_mod.png" 1716297967.9092 16037 88d7760251919e110242eadb6fcbbc61 ""
   "graphics/lab6_sq.png" 1716297943.69113 16576 7d72501961db4934ae355e20bc017b93 ""
   "graphics/lab6_sq_mod.png" 1716297961.46458 12253 2f80221a5fa4053e7876a6a5161bc328 ""
-  "Математическая статистика.aux" 1716298257.17299 10677 3aef8bdeec79205af3a319dbdc908aee "pdflatex"
-  "Математическая статистика.out" 1716298257.17442 10452 3e3298759c73d802b4ed4ffe71c42838 "pdflatex"
-  "Математическая статистика.tex" 1716298255.51369 37324 9bfe152babc7e0f2348ba7fefdd14ca2 ""
-  "Математическая статистика.toc" 1716298257.17486 4068 59bb87d71410fa960f2aafc7342b087c "pdflatex"
+  "Математическая статистика.aux" 1716298300.73959 10675 a83fc6ec7df5f1d2d94f92882a263db6 "pdflatex"
+  "Математическая статистика.out" 1716298300.74099 10452 3e3298759c73d802b4ed4ffe71c42838 "pdflatex"
+  "Математическая статистика.tex" 1716298297.54523 37336 943e5e104d4cac0c0ae942eb22a462b1 ""
+  "Математическая статистика.toc" 1716298300.74137 4068 267a9a46ff625c852017b9dc6cd5fcc2 "pdflatex"
   (generated)
   "Математическая статистика.aux"
   "Математическая статистика.log"

@@ -1,8 +1,8 @@
-PWD /Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report-4-8
+PWD /Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/spbstu-mathematical-statistics/report-4-8
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report-4-8/Математическая статистика.tex
+INPUT /Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/spbstu-mathematical-statistics/report-4-8/Математическая статистика.tex
 OUTPUT Математическая статистика.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -231,22 +231,22 @@ INPUT ./graphics/lab5_ellips_100.png
 INPUT ./graphics/lab5_ellips_100.png
 INPUT ./graphics/lab5_ellips_100.png
 INPUT ./graphics/lab5_ellips_100.png
-INPUT ./graphics/lab6_ls.png
-INPUT ./graphics/lab6_ls.png
-INPUT ./graphics/lab6_ls.png
-INPUT ./graphics/lab6_ls.png
-INPUT ./graphics/lab6_la.png
-INPUT ./graphics/lab6_la.png
-INPUT ./graphics/lab6_la.png
-INPUT ./graphics/lab6_la.png
-INPUT ./graphics/lab6_ls_outliners.png
-INPUT ./graphics/lab6_ls_outliners.png
-INPUT ./graphics/lab6_ls_outliners.png
-INPUT ./graphics/lab6_ls_outliners.png
-INPUT ./graphics/lab6_la_outliners.png
-INPUT ./graphics/lab6_la_outliners.png
-INPUT ./graphics/lab6_la_outliners.png
-INPUT ./graphics/lab6_la_outliners.png
+INPUT ./graphics/lab6_sq.png
+INPUT ./graphics/lab6_sq.png
+INPUT ./graphics/lab6_sq.png
+INPUT ./graphics/lab6_sq.png
+INPUT ./graphics/lab6_abs.png
+INPUT ./graphics/lab6_abs.png
+INPUT ./graphics/lab6_abs.png
+INPUT ./graphics/lab6_abs.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_sq_mod.png
+INPUT ./graphics/lab6_abs_mod.png
+INPUT ./graphics/lab6_abs_mod.png
+INPUT ./graphics/lab6_abs_mod.png
+INPUT ./graphics/lab6_abs_mod.png
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT Математическая статистика.aux

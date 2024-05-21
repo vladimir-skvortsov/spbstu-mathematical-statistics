@@ -1,8 +1,8 @@
-PWD /Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report-1-4
+PWD /Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/spbstu-mathematical-statistics/report-1-4
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/report-1-4/Математическая статистика.tex
+INPUT /Users/vladimirskvortsov/Projects/spbstu/mathematical-statistics/spbstu-mathematical-statistics/report-1-4/Математическая статистика.tex
 OUTPUT Математическая статистика.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
